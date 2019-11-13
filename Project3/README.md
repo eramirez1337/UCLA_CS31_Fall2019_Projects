@@ -1,0 +1,1 @@
+May there be a God that has mercy on your soul (or not, maybe you're an atheist). Project 3 is where the difficulty ramps up. Smallberg "suggests" that you have helper functions, and by "suggests" he means that it requires helper functions. Where the difficulty comes in is detecting errors in the user input. Everthing else is a bit straightforward.
