@@ -1,0 +1,1 @@
+Project 3 was pretty difficult, but thankfully Father Smallberg made Project 4 a tad bit easier on your life. He wants you to learn how to use arrays, and this project does a pretty good job at doing so. The last few functions that you have to implement are tricky, but with enough thought put into it, you can find a way to do it.
