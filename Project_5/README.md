@@ -1,0 +1,1 @@
+Project 5 wasn't too bad. However, if you are doing this project in XCode, you will want to temporarily change utilities.cpp into utilities.hpp. The IDE will give you an error because you are trying to run a program with two .cpp's, which is apparently a big no-no. Anyway, C-strings... a nifty bunch.
